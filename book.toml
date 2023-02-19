@@ -1,0 +1,12 @@
+
+[book]
+title = "Documentation of the Signature Programming Language"
+authors = ["Signature Programming Language", "ky0422"]
+language = "en"
+
+[output.html]
+git-repository-url = "https://github.com/siglang"
+
+[output.html.playground]
+editable = true
+line-numbers = true
